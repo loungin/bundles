@@ -1,0 +1,27 @@
+[submodule "vim-pathogen"]
+	path = vim-pathogen
+	url = ./vim-pathogen
+[submodule "vim-markdown"]
+	path = vim-markdown
+	url = https://github.com/plasticboy/vim-markdown
+[submodule "Zenburn"]
+	path = Zenburn
+	url = ./Zenburn
+[submodule "molokai"]
+	path = molokai
+	url = ./molokai
+[submodule "mustang-vim"]
+	path = mustang-vim
+	url = ./mustang-vim
+[submodule "nerdcommenter"]
+	path = nerdcommenter
+	url = ./nerdcommenter
+[submodule "nerdtree"]
+	path = nerdtree
+	url = ./nerdtree
+[submodule "rainbow_parentheses.vim"]
+	path = rainbow_parentheses.vim
+	url = ./rainbow_parentheses.vim
+[submodule "vim-surround"]
+	path = vim-surround
+	url = ./vim-surround
