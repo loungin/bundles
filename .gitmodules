@@ -1,27 +1,28 @@
 [submodule "vim-pathogen"]
 	path = vim-pathogen
-	url = ./vim-pathogen
+	url = https://github.com/tpope/vim-pathogen.git
 [submodule "vim-markdown"]
 	path = vim-markdown
-	url = https://github.com/plasticboy/vim-markdown
+	url = https://github.com/plasticboy/vim-markdown.git
 [submodule "Zenburn"]
 	path = Zenburn
-	url = ./Zenburn
+	url = https://github.com/jnurmine/Zenburn.git
 [submodule "molokai"]
 	path = molokai
-	url = ./molokai
+	url = https://github.com/tomasr/molokai.git
 [submodule "mustang-vim"]
 	path = mustang-vim
-	url = ./mustang-vim
+	url = https://github.com/croaker/mustang-vim.git
 [submodule "nerdcommenter"]
 	path = nerdcommenter
-	url = ./nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
 [submodule "nerdtree"]
 	path = nerdtree
-	url = ./nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
 [submodule "rainbow_parentheses.vim"]
 	path = rainbow_parentheses.vim
-	url = ./rainbow_parentheses.vim
+	url = https://github.com/kien/rainbow_parentheses.vim.git
 [submodule "vim-surround"]
 	path = vim-surround
-	url = ./vim-surround
+	url = https://github.com/tpope/vim-surround.git
+
